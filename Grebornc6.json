@@ -16,7 +16,7 @@
     },
 	{
       "name": "system-eu/eu/skillgrp.dat",
-      "url": "https://github.com/casper1new1-lgtm/rebornc6/raw/refs/heads/main/eu/skillgrp.dat"
+      "url": "https://github.com/casper1new1-lgtm/rebornc6/raw/refs/heads/main/eu/Skillgrp.dat"
     },
 	{
       "name": "system-eu/l2GameDataName.dat",
@@ -31,4 +31,5 @@
 	
   ]
 }
+
 
