@@ -1,0 +1,33 @@
+{
+  "allowed_machine_guids": [
+	"b59d3546-1ecf-49b8-aabf-7150b71f8dd3",
+	"6979n875-g123-o724-i968-f4562v22"
+	
+	
+  ],
+  "files": [
+    {
+      "name": "system-eu/LineageEffect.u",
+      "url": "https://github.com/casper1new1-lgtm/rebornc6/raw/refs/heads/main/LineageEffect.u"
+    },
+	{
+      "name": "system-eu/lineageeffect2a.u",
+      "url": "https://github.com/casper1new1-lgtm/rebornc6/raw/refs/heads/main/lineageeffect2a.u"
+    },
+	{
+      "name": "system-eu/eu/skillgrp.dat",
+      "url": "https://github.com/casper1new1-lgtm/rebornc6/raw/refs/heads/main/eu/skillgrp.dat"
+    },
+	{
+      "name": "system-eu/l2GameDataName.dat",
+      "url": "https://github.com/casper1new1-lgtm/rebornc6/raw/refs/heads/main/eu/l2gamedataname.dat"
+    },
+	{
+      "name": "system/user.ini",
+      "url": "https://github.com/casper1new1-lgtm/rebornc6/raw/refs/heads/main/user.ini"
+    }
+
+
+	
+  ]
+}
